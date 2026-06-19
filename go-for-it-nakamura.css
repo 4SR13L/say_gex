@@ -1,0 +1,49 @@
+/* ===== FONTES ===== */
+.boys {
+    color:#F20C0C;
+    font-family: 'Protest Revolution', sans-serif;
+    text-align: center;
+    font-style: italic;
+    margin-left: 20px;
+    margin-right: 20px;
+    letter-spacing: 2px;
+}
+/* ===== TEXTOS ===== */
+body {
+    background-color: 	#F2E6CE;
+    color:Maroon;
+    text-align: center;
+     margin-left: 20px;
+    margin-right: 20px;
+/* ===== FONTES ===== */
+}
+.Love {
+    color: #A60303;
+    font-family: 'Metal Mania', cursive;
+    text-align: center;
+    font-weight: 400px;
+}
+/* ===== TEXTOS ===== */
+h1 {
+    font-size: 50px;
+    text-shadow: 2px 2px 4px #000000;
+}
+/* ===== TEXTOS ===== */
+.cazuza {
+    text-transform: uppercase;
+    text-align: center;
+}
+/* ===== TEXTOS ===== */
+.lady-gaga {
+    word-spacing: 5px;
+    text-align: left;
+}
+/* ===== TEXTOS ===== */
+.bowie {
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    text-align: right;
+}
+/* ===== TEXTOS ===== */
+.venti {
+
+}
