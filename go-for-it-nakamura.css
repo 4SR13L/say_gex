@@ -43,7 +43,44 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
     text-align: right;
 }
-/* ===== TEXTOS ===== */
-.venti {
+/* ===== BOTÕES ===== */
+.botoes {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;    
+    gap: 15px;             
+    padding-bottom: 30px;
+}
 
+/* ===== BOTÕES ===== */
+button {
+    padding: 12px 25px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease; /* suaviza todas as mudanças */
+}
+
+/* ===== BOTÕES ===== */
+.btn1 {
+    background-color:SpringGreen;
+    color: white;
+}
+
+.btn1:hover {
+    background-color:MediumSeaGreen;
+    color: #fff;
+}
+
+/* ===== BOTÕES ===== */
+.btn2 {
+    background-color: Aquamarine;
+    color: white;
+}
+
+.btn2:hover {
+    transform: scale(1.2);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
 }
