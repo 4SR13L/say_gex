@@ -60,7 +60,7 @@ button {
     border: none;
     cursor: pointer;
     border-radius: 8px;
-    transition: all 0.3s ease; /* suaviza todas as mudanças */
+    transition: all 0.3s ease; 
 }
 
 /* ===== BOTÕES ===== */
@@ -83,4 +83,26 @@ button {
 .btn2:hover {
     transform: scale(1.2);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+.frase {
+    font-size: 18px;
+    font-style: italic;
+    color: #333;
+    margin-top: 20px;
+}.eu {
+    color: #A60303;
+    font-weight: bold;
+}
+
+/* ===== IMAGEM ===== */
+.venti {
+    width: 700px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease, opacity 0.3s ease, box-shadow 0.3s ease;
+}
+.venti:hover {
+    transform: scale(1.1);
+    opacity: 0.85;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);
 }
